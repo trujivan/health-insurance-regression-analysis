@@ -1,4 +1,4 @@
-#health-insurance-regression-analysis
+# Health-Insurance-Regression-Analysis
 
 See full report below:
 
